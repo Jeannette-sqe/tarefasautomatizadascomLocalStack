@@ -1,4 +1,3 @@
-!(principal.png)
 
 **Implementação de um Fluxo de Automação Serverless com AWS e LocalStack**
 
@@ -47,8 +46,7 @@ O **módulo central da automação** reside no código Python da função Lambda
 
 **Persistência do Log no DynamoDB**: Por fim, o Lambda insere um novo item na tabela DynamoDB. O registro contém informações essenciais como o nome do arquivo, o status final (Sucesso ou Falha) e as métricas extraídas (como número de linhas ou tamanho). 
 
-![Imagembucket](s3_bucket_05.png)
-
 Com essa arquitetura, demonstramos a capacidade de construir sistemas **escaláveis, auto-acionados e auditáveis**, que são a base da moderna engenharia de software na nuvem.
+
 
 
