@@ -1,4 +1,4 @@
-![Imagem](principal.png)
+!(principal.png)
 
 **Implementação de um Fluxo de Automação Serverless com AWS e LocalStack**
 
@@ -50,4 +50,5 @@ O **módulo central da automação** reside no código Python da função Lambda
 ![Imagembucket](s3_bucket_05.png)
 
 Com essa arquitetura, demonstramos a capacidade de construir sistemas **escaláveis, auto-acionados e auditáveis**, que são a base da moderna engenharia de software na nuvem.
+
 
